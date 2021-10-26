@@ -1,0 +1,36 @@
+header{
+    height: auto;
+    width: auto;
+    margin: auto;
+    background-image: linear-gradient(to bottom,#84d384,#7abd7a,#72aa72);
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color:#84d384b7;
+}
+
+main{
+    background-color: white;
+}
+
+h2{
+    background-color: rgba(142, 192, 142, 0.322);
+    color: rgb(0, 143, 0);
+}
+
+
+section{
+    background-color: rgba(144, 238, 144, 0.322);
+    border-radius: 20px;
+}
+
+
+
+ul{
+    columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  width: 600px;
+}

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to left,#c1deeb, #add8ec);
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #396479;
+}
+
+h1#Prince{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.bas{
+    color: #68b195;
+    
+}
+
+.inter{
+    color: #a07c52;
+}
+
+.ava{
+    color: rgb(161, 154, 84);
+}
+
+h2{
+    color: #687aad;
+}
